@@ -23,8 +23,15 @@ To write a Python function that accepts a string and forms a new string by rever
 ### PROGRAM
 
 ```
+#Reg.no: 212222063014
+#Name: SARATH KUMAR.K
+def slice(a):
+    b=a[9:1:-2]
+    print(f"The reversed string is '{b}'")
 ```
 
 ### OUTPUT
+<img width="793" height="193" alt="image" src="https://github.com/user-attachments/assets/5df30033-a1cc-48d7-b593-e06abb09127c" />
 
 ### RESULT
+Thus a Python function that accepts a string and forms a new string by reversing the characters from the 4th position to the 10th position with alternate characters, and then prints the new string has been implemented and executed.
